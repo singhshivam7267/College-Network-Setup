@@ -5,4 +5,10 @@ The College Network Setup is about designing a topology of a network that is a L
 ![College Network](https://github.com/singhshivam7267/College-Network-Setup/blob/c2e65f61f3f5032d5199a6dbc816b9371e93ef0a/College%20Network.png)
 
 
+
 ![College-Network-Setup physical view](https://github.com/singhshivam7267/College-Network-Setup/blob/b889691101b5d89ccbee3e999cf7c05d7fec039c/College%20Network%20Physical%20view.png)
+
+
+
+
+![College-Network-Setup Simulation](https://github.com/singhshivam7267/College-Network-Setup/blob/70bfa464756062cc5226c06cdbc62d7ed279ad1d/College-Network-Simulation.png)
